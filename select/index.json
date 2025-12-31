@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "INItialize",
+  "base_artist": "INI",
+  "createdAt": "2025-12-31T15:08:33.684831Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Initialize the Calm",
+      "artist": "dEMOTIONAL",
+      "has_synced": true,
+      "path": "select/01_Initialize_the_Calm_dEMOTIONAL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "INItialize",
+      "artist": "INI",
+      "has_synced": true,
+      "path": "select/02_INItialize_INI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Initialize (Club Edit)",
+      "artist": "Binary Division",
+      "has_synced": true,
+      "path": "select/03_Initialize_(Club_Edit)_Binary_Division.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "INITIALIZE",
+      "artist": "She Her Her Hers",
+      "has_synced": false,
+      "path": "select/04_INITIALIZE_She_Her_Her_Hers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "initialize",
+      "artist": "saoirse dream",
+      "has_synced": false,
+      "path": "select/05_initialize_saoirse_dream.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "INItialize",
+      "artist": "INI",
+      "has_synced": false,
+      "path": "select/pl_01_INItialize_INI.txt"
+    }
+  ]
+}
